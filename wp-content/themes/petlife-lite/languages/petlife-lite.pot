@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Petlife Lite\n"
+"POT-Creation-Date: 2021-05-21 16:05+0530\n"
+"PO-Revision-Date: 2021-05-21 16:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: Starthemes Team <support@starthemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: content-page.php:19
+#: content-single.php:29
+#: content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24
+#: content-single.php:41
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:34
+#: content.php:13
+msgid ", "
+msgstr ""
+
+#: content-single.php:35
+msgid " | Tags: "
+msgstr ""
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:15
+msgid "Y"
+msgstr ""
+
+#: front-page.php:57
+#: inc/customizer.php:281
+msgid "Read More"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:45
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:46
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid "%1$s <a href=\"%2$s\">%3$s</a>"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Select color from here."
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Select Second color from here."
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Select background color for header."
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Select color for navigation."
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Select background color for footer."
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Top Header"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Add top header information here."
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Add Address here."
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Add Working Hours here."
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Add phone number here."
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Add email here."
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Add facebook link here."
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Add twitter link here."
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Add youtube channel link here."
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Add linkedin link here."
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Add pinterest link here."
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Uncheck to display top header"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Header Button"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Add header button text and link below."
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Add Header button text here."
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Add Header button link here."
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid ""
+"Recommended image size (1420x567). Slider will work only when you select the "
+"static front page."
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Add slider link button text."
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Check this to hide slider."
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "Homepage Welcome section"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid ""
+"Select page for homepage welcome section. This section will be displayed "
+"only when you select the static front page."
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Select page for homepage welcome section"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Add Read More button text here."
+msgstr ""
+
+#: inc/customizer.php:348
+#: inc/customizer.php:418
+msgid "Check this to hide section."
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Homepage Services"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid ""
+"Select pages for homepage services. This section will be displayed only when "
+"you select the static front page."
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Add Service section titlt here."
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Select page for first Homepage box"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Select page for second Homepage box"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Select page for third Homepage box"
+msgstr ""

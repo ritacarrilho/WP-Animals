@@ -1,0 +1,19 @@
+name: animauxwp
+recipe: wordpress
+config:
+  webroot: .
+services:
+  database:
+    type: mysql
+    portforward: 3307
+    creds:
+      user: ppwp
+      password: master
+      database: ppbase
+tooling: 
+  install: 
+    service: appserver
+    description: "commande pour installer wordpress..."
+    cmd:
+      - echo Installation Wordpress...
+      - php config/install_wp.php

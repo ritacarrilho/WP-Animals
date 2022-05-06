@@ -1,0 +1,11 @@
+Version 1.0
+i) Intial version Release
+
+Version 1.1
+i) Theme updated by making many changes like layout, css and few functions.
+
+Version 1.2
+i) Theme updated by adding escape functions.
+
+Version 1.2.1
+i) Added variable prefix in custom.js file.
